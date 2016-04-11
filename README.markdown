@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Phake
 =======
 [![Build Status](https://secure.travis-ci.org/mlively/Phake.png)](http://travis-ci.org/mlively/Phake)
